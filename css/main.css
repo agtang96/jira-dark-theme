@@ -1,10 +1,10 @@
 body {
-  filter: invert(88%);
+  filter: saturate(125%) hue-rotate(180deg) invert(95%) sepia(32%);
   background-color: #1f1f1f !important;
 }
 
 #page img,
 .img-wrapper,
 span[role="img"] {
-  filter: invert(88%);
+  filter: invert(95%);
 }
