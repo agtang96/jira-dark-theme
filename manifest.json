@@ -1,5 +1,5 @@
 {
- 	"manifest_version": 2,
+ 	"manifest_version": 3,
  	"name": "Jira Dark Theme",
  	"version": "1.0",
 	"description": "Switch to dark version of Jira",
